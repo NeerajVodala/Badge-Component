@@ -99,8 +99,7 @@ body {
 }
 
 .badge-btn-icon--toggle {
-    height: 20px;
-    width: 20px;
+    padding: 6px 8px;
     position: absolute;
     top: 0;
     right: 0;
@@ -116,3 +115,9 @@ body {
     display: flex;
     align-items: center;
 }
+
+.home-icon {
+    height: 2rem;
+    width: auto;
+}
+
