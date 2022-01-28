@@ -111,3 +111,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.icon-badge {
+    display: flex;
+    align-items: center;
+}
